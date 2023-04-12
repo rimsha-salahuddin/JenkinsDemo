@@ -6,7 +6,6 @@ C:\Users\jsalahri\source\repos\WebAPIDemo2\WebApi\bin\Debug\net6.0\WebApi.runtim
 C:\Users\jsalahri\source\repos\WebAPIDemo2\WebApi\bin\Debug\net6.0\WebApi.dll
 C:\Users\jsalahri\source\repos\WebAPIDemo2\WebApi\bin\Debug\net6.0\ref\WebApi.dll
 C:\Users\jsalahri\source\repos\WebAPIDemo2\WebApi\bin\Debug\net6.0\WebApi.pdb
-C:\Users\jsalahri\source\repos\WebAPIDemo2\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
 C:\Users\jsalahri\source\repos\WebAPIDemo2\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jsalahri\source\repos\WebAPIDemo2\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
 C:\Users\jsalahri\source\repos\WebAPIDemo2\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
